@@ -17,7 +17,7 @@
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/",
-    "access": "public"
+    "access": "restricted"
   },
   "author": "",
   "license": "Apache-2.0",

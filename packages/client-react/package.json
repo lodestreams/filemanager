@@ -19,7 +19,7 @@
   "repository": "OpusCapita/react-filemanager",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/",
-    "access": "public"
+    "access": "restricted"
   },
   "main": "lib/index.js",
   "files": [
